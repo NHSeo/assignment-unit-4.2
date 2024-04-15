@@ -1,0 +1,22 @@
+header {
+    background-color: gray;
+    color: whitesmoke;
+}
+
+.info {
+    background-color: whitesmoke;
+}
+
+
+h2 {
+    background-color: brown;
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+h3 {
+    background-color: darkblue;
+    color: black;
+    text-align: center;
+}
